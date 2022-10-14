@@ -8,15 +8,16 @@
 
 ####    Figma
 `
-    preview:     `https://www.figma.com/file/mg8je9RUYBvHoDnl5yqi9E/Design-System-Lab?node-id=0%3A1
+    preview:` https://www.figma.com/file/mg8je9RUYBvHoDnl5yqi9E/Design-System-Lab?node-id=0%3A1
 
 -   Disponibilizacão da paleta de cores utilizadas no projeto;
 -   Design System e componentizacão de recursos 
 
 ####    Run
 
-` install:  npm install `
-` start:    npm run dev`
+ install: ` npm install `
+
+ start:  ` npm run dev `
 
 
 ####    Screenshot
