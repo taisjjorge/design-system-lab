@@ -13,6 +13,10 @@
 -   Disponibilizacão da paleta de cores utilizadas no projeto;
 -   Design System e componentizacão de recursos 
 
+####    Documentacao Storybook
+`
+    doc:` https://taisjjorge.github.io/design-system-lab/
+
 ####    Run
 
  install: ` npm install `
@@ -20,5 +24,5 @@
  start:  ` npm run dev `
 
 
-####    Screenshot
+
 
