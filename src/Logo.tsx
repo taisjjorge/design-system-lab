@@ -1,10 +1,8 @@
 import { SVGAttributes } from "react"
 
-interface LogoPros extends SVGAttributes<HTMLOrSVGElement> {
-    
-}
+interface LogoPros extends SVGAttributes<HTMLOrSVGElement> {}
 
-export function Logo(props) {
+export function Logo(props: LogoPros) {
   return (
     <svg
       width={64}
