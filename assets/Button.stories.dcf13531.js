@@ -1,0 +1,2 @@
+import{B as t}from"./Button.f180aac3.js";import"./index.module.f62e08c7.js";import"./index.86bad61c.js";import"./iframe.be3914fe.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.ac232b3b.js";const i={title:"Components/Button",component:t,args:{children:"Enviar"},argTypes:{}},m={},a=["Default"];export{m as Default,a as __namedExportsOrder,i as default};
+//# sourceMappingURL=Button.stories.dcf13531.js.map
